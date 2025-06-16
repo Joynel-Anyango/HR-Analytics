@@ -23,7 +23,7 @@ I analyzed organization's workforce using three focused dashboards Department An
 
 ## 💡 How Data Solves These HR Challenges
 By using data-driven dashboards:
- ✔️ We can proactively address attrition risks by focusing on vulnerable age brackets and job roles.
- ✔️ We gain visibility into diversity gaps and can set measurable DEI hiring goals.
- ✔️ We ensure pay equity and transparency with gender and role-based salary insights.
- ✔️ We optimize organizational structure by aligning job titles and headcounts with actual needs.
+ - ✔️ We can proactively address attrition risks by focusing on vulnerable age brackets and job roles.
+ - ✔️ We gain visibility into diversity gaps and can set measurable DEI hiring goals.
+ - ✔️ We ensure pay equity and transparency with gender and role-based salary insights.
+ - ✔️ We optimize organizational structure by aligning job titles and headcounts with actual needs.
