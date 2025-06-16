@@ -6,8 +6,8 @@ In today’s dynamic business environment, HR teams are facing increasing pressu
 - ✔️ Ensure fair and competitive compensation
 - ✔️ Align headcount and job roles with strategic goals
 
-I analyzed organization's workforce using three focused dashboards Department Analysis, Attrition Analysis and Salary Analysis. Here’s what I uncovered: (https://lnkd.in/dun7EGc3)
-📊 Key Insights from the Dashboards
+I analyzed organization's workforce using three focused dashboards Department Analysis, Attrition Analysis and Salary Analysis. Here’s what I uncovered: 
+- 📊 Key Insights from the Dashboards
 ## 1️⃣ Department Analysis Dashboard
  - ✔️ IT has the highest number of employees (241) and the most diverse job roles (17 titles),possibly indicating role fragmentation.
  - ✔️ Ethnicity data shows an over representation of Asian employees, with Latino and Black groups underrepresented across most departments.
